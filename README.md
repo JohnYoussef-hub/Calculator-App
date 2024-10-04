@@ -10,4 +10,3 @@ This is a simple calculator app built using C# and .NET Framework. It provides b
 ## Requirements
 - .NET Framework 4.x
 - Visual Studio Community 2022
-- 
