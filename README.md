@@ -1,12 +1,16 @@
-# Calculator App
+# Calculator Application
 
-This is a simple calculator app built using C# and .NET Framework. It provides basic mathematical operations like addition, subtraction, multiplication, and division.
+Welcome to the **Calculator Application**! This program allows you to perform basic arithmetic operations quickly and easily. The app is designed to be user-friendly, making it accessible to everyone.
 
 ## Features
-- Simple and intuitive user interface
-- Supports basic arithmetic operations
-- Real-time calculation updates
+
+- **Basic Operations**: Perform addition, subtraction, multiplication, and division.
+- **Clean User Interface**: The application features a clear interface that displays inputs and results.
+- **Memory Functions**: Easily store and retrieve results.
+- **User-Friendly Design**: Simple buttons and clear display for easy use.
 
 ## Technologies Used
-- C# (.NET Framework)
-- Windows Forms for the GUI
+
+- **C#**: The programming language used to develop the application.
+- **.NET Framework**: Provides the necessary framework for building the application.
+- **Windows Forms**: Used to develop the graphical user interface (GUI).
