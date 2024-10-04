@@ -1,6 +1,6 @@
 # Calculator Application
 
-Welcome to the **Calculator Application**! This program allows you to perform basic arithmetic operations quickly and easily. The app is designed to be user-friendly, making it accessible to everyone.
+This program allows you to perform basic arithmetic operations quickly and easily. The app is designed to be user-friendly, making it accessible to everyone.
 
 ## Features
 
