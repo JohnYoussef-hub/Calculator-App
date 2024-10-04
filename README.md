@@ -8,5 +8,5 @@ This is a simple calculator app built using C# and .NET Framework. It provides b
 - Real-time calculation updates
 
 ## Requirements
-- C#(.NET Framework)
+- C# (.NET Framework)
 - Visual Studio Community 2022
