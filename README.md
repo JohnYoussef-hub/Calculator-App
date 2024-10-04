@@ -7,6 +7,6 @@ This is a simple calculator app built using C# and .NET Framework. It provides b
 - Supports basic arithmetic operations
 - Real-time calculation updates
 
-## Requirements
+## Technologies Used
 - C# (.NET Framework)
-- Visual Studio Community 2022
+- Windows Forms for the GUI
